@@ -8,9 +8,6 @@
 ## Student variant
 Student ID ends in 9 (odd): task 5(c) is the LSTM forget-gate bias ablation (bias 0 versus 1) at T = 200.
 
-## Run time on a T4
-Total: see the final cell timings of the last Restart-and-Run-All (Problem 1 and Problem 2 are each run once).
-
 ## 1. Project Overview
 
 This assignment implements and evaluates recurrent neural networks and Transformer-based architectures on two tasks:
