@@ -1,8 +1,15 @@
-# DNN Programming Assignment 2
+# DNN Assignment 2 - RNN, LSTM, GRU and Transformer (2026AJ05309)
+
 ## RNN, LSTM, GRU and Transformer Models
 
 **Student Name:** PRIYASAHAANA M.  
 **Student ID:** 2026AJ05309
+
+## Student variant
+Student ID ends in 9 (odd): task 5(c) is the LSTM forget-gate bias ablation (bias 0 versus 1) at T = 200.
+
+## Run time on a T4
+Total: see the final cell timings of the last Restart-and-Run-All (Problem 1 and Problem 2 are each run once).
 
 ## 1. Project Overview
 
@@ -14,7 +21,10 @@ This assignment implements and evaluates recurrent neural networks and Transform
 All neural network experiments use PyTorch. The custom recurrent cells and attention components are implemented from scratch for the required implementation exercises. No pretrained model weights are used.
 
 ## 2. Environment and Dependencies
-
+- Python 3.10+ (developed on Colab, Tesla T4 GPU), PyTorch 2.x, NumPy, pandas, Matplotlib, scikit-learn.
+- Exact versions: `requirements.txt` (`pip install -r requirements.txt`). seaborn is optional (heatmaps fall back to Matplotlib).
+- No pre-trained weights. Datasets are downloaded by the notebooks into `data/` (UCI HAR, Tiny Shakespeare); the adding problem is generated in code.
+- 
 Experiments were conducted in Google Colab using the following reported environment:
 
 | Component | Version |
