@@ -21,7 +21,7 @@ All neural network experiments use PyTorch. The custom recurrent cells and atten
 - Python 3.10+ (developed on Colab, Tesla T4 GPU), PyTorch 2.x, NumPy, pandas, Matplotlib, scikit-learn.
 - Exact versions: `requirements.txt` (`pip install -r requirements.txt`). seaborn is optional (heatmaps fall back to Matplotlib).
 - No pre-trained weights. Datasets are downloaded by the notebooks into `data/` (UCI HAR, Tiny Shakespeare); the adding problem is generated in code.
-- 
+
 Experiments were conducted in Google Colab using the following reported environment:
 
 | Component | Version |
@@ -64,7 +64,7 @@ A CUDA-enabled GPU was used for the computationally intensive experiments where 
     └── models/
 ```
 
-The notebooks generate experiment outputs, figures, metrics and model checkpoints in their respective problem folders. The consolidated `results.csv` contains one row per experiment run, while `detailed_results.csv` stores additional experiment-level measurements.
+The notebooks generate experiment outputs, figures, metrics and model checkpoints in their respective problem folders. The consolidated `results.csv` contains one row per experiment run, while `detailed_results.csv` contains detailed experiment-level measurements for both problems, including test and validation metrics, model parameter counts, execution times, attention complexity, and ablation study results. Each row records a metric, its value, and its corresponding experiment. This file provides additional numerical evidence to support the summary results in results.csv and the analysis presented in report.pdf.
 
 ## 4. Execution Instructions
 
