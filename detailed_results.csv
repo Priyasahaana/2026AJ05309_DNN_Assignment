@@ -1,0 +1,461 @@
+problem,model,experiment,metric,value,unit
+Problem 1 - Adding,RNN,Seed=13; Sequence length=50,Test MSE,0.1748687922954559,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=50,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=13; Sequence length=50,Average epoch time,0.3079040316999453,seconds/epoch
+Problem 1 - Adding,RNN,Seed=13; Sequence length=50,Best validation MSE,0.165708,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=50,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=309; Sequence length=50,Test MSE,0.1744048297405243,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=50,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=309; Sequence length=50,Average epoch time,0.3408352323000599,seconds/epoch
+Problem 1 - Adding,RNN,Seed=309; Sequence length=50,Best validation MSE,0.165834,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=50,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=50,Test MSE,0.1753097027540207,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=50,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=50,Average epoch time,0.3276395582000077,seconds/epoch
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=50,Best validation MSE,0.166049,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=50,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=50,Test MSE,0.1740558594465255,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=50,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=50,Average epoch time,0.3402087943999959,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=50,Best validation MSE,0.164789,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=50,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=50,Test MSE,0.1737602949142456,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=50,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=50,Average epoch time,0.3419114978999459,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=50,Best validation MSE,0.164786,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=50,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=50,Test MSE,0.1731496900320053,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=50,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=50,Average epoch time,0.4125131861999762,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=50,Best validation MSE,0.164732,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=50,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=13; Sequence length=50,Test MSE,0.0044323769398033,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=50,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=13; Sequence length=50,Average epoch time,0.3285870829000487,seconds/epoch
+Problem 1 - Adding,GRU,Seed=13; Sequence length=50,Best validation MSE,0.003896,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=50,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=309; Sequence length=50,Test MSE,0.0040204650722444,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=50,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=309; Sequence length=50,Average epoch time,0.3290866013999675,seconds/epoch
+Problem 1 - Adding,GRU,Seed=309; Sequence length=50,Best validation MSE,0.00318,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=50,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=50,Test MSE,0.0052000866271555,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=50,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=50,Average epoch time,0.3451668264000546,seconds/epoch
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=50,Best validation MSE,0.004363,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=50,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=13; Sequence length=100,Test MSE,0.17045758664608,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=100,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=13; Sequence length=100,Average epoch time,0.3507003531999089,seconds/epoch
+Problem 1 - Adding,RNN,Seed=13; Sequence length=100,Best validation MSE,0.160375,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=100,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=309; Sequence length=100,Test MSE,0.1700822860002517,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=100,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=309; Sequence length=100,Average epoch time,0.3089467546999913,seconds/epoch
+Problem 1 - Adding,RNN,Seed=309; Sequence length=100,Best validation MSE,0.160483,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=100,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=100,Test MSE,0.1696574240922927,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=100,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=100,Average epoch time,0.3124846951000563,seconds/epoch
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=100,Best validation MSE,0.160614,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=100,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=100,Test MSE,0.1700172871351242,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=100,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=100,Average epoch time,0.3850860105001175,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=100,Best validation MSE,0.160156,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=100,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=100,Test MSE,0.1695148348808288,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=100,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=100,Average epoch time,0.369544550900082,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=100,Best validation MSE,0.160242,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=100,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=100,Test MSE,0.1698009371757507,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=100,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=100,Average epoch time,0.3460516977000225,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=100,Best validation MSE,0.160302,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=100,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=13; Sequence length=100,Test MSE,0.0051720831543207,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=100,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=13; Sequence length=100,Average epoch time,0.3325998714000434,seconds/epoch
+Problem 1 - Adding,GRU,Seed=13; Sequence length=100,Best validation MSE,0.005122,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=100,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=309; Sequence length=100,Test MSE,0.0067587732337415,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=100,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=309; Sequence length=100,Average epoch time,0.3948500274999788,seconds/epoch
+Problem 1 - Adding,GRU,Seed=309; Sequence length=100,Best validation MSE,0.006476,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=100,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=100,Test MSE,0.0062593724578619,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=100,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=100,Average epoch time,0.3276700383999468,seconds/epoch
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=100,Best validation MSE,0.005879,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=100,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=13; Sequence length=200,Test MSE,0.1684129685163498,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=200,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=13; Sequence length=200,Average epoch time,0.31366680849992,seconds/epoch
+Problem 1 - Adding,RNN,Seed=13; Sequence length=200,Best validation MSE,0.159713,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=309; Sequence length=200,Test MSE,0.1681268662214279,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=200,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=309; Sequence length=200,Average epoch time,0.3214223436999873,seconds/epoch
+Problem 1 - Adding,RNN,Seed=309; Sequence length=200,Best validation MSE,0.15969,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=200,Test MSE,0.1680397689342498,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=200,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=200,Average epoch time,0.3574325155999759,seconds/epoch
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=200,Best validation MSE,0.159741,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=200,Test MSE,0.1683867275714874,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=200,Average epoch time,0.3453782081999634,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159816,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=200,Test MSE,0.1682369410991668,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=200,Average epoch time,0.3409300962999623,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159825,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1682316362857818,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.3973046566000448,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.159788,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=13; Sequence length=200,Test MSE,0.019154543057084,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=200,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=13; Sequence length=200,Average epoch time,0.3451613181000993,seconds/epoch
+Problem 1 - Adding,GRU,Seed=13; Sequence length=200,Best validation MSE,0.015668,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=200,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=309; Sequence length=200,Test MSE,0.111420065164566,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=200,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=309; Sequence length=200,Average epoch time,0.3316724848000376,seconds/epoch
+Problem 1 - Adding,GRU,Seed=309; Sequence length=200,Best validation MSE,0.108758,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=200,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=200,Test MSE,0.0187270976603031,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=200,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=200,Average epoch time,0.3345204259999264,seconds/epoch
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=200,Best validation MSE,0.01627,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=200,Solved status,1.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=13; Sequence length=400,Test MSE,0.1532330214977264,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=400,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=13; Sequence length=400,Average epoch time,0.3793713918000321,seconds/epoch
+Problem 1 - Adding,RNN,Seed=13; Sequence length=400,Best validation MSE,0.16462,MSE
+Problem 1 - Adding,RNN,Seed=13; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=309; Sequence length=400,Test MSE,0.154144749045372,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=400,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=309; Sequence length=400,Average epoch time,0.3211430000999371,seconds/epoch
+Problem 1 - Adding,RNN,Seed=309; Sequence length=400,Best validation MSE,0.164424,MSE
+Problem 1 - Adding,RNN,Seed=309; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=400,Test MSE,0.1542494446039199,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=400,Trainable parameters,4417.0,parameters
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=400,Average epoch time,0.3225572976999956,seconds/epoch
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=400,Best validation MSE,0.164447,MSE
+Problem 1 - Adding,RNN,Seed=2004; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=400,Test MSE,0.1542472243309021,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=400,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=400,Average epoch time,0.4200951483000154,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=400,Best validation MSE,0.164544,MSE
+Problem 1 - Adding,LSTM,Seed=13; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=400,Test MSE,0.1536604166030883,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=400,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=400,Average epoch time,0.4160663526999542,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=400,Best validation MSE,0.164401,MSE
+Problem 1 - Adding,LSTM,Seed=309; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=400,Test MSE,0.1535461544990539,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=400,Trainable parameters,17473.0,parameters
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=400,Average epoch time,0.3935230067999782,seconds/epoch
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=400,Best validation MSE,0.164414,MSE
+Problem 1 - Adding,LSTM,Seed=2004; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=13; Sequence length=400,Test MSE,0.1524261832237243,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=400,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=13; Sequence length=400,Average epoch time,0.4368638740000278,seconds/epoch
+Problem 1 - Adding,GRU,Seed=13; Sequence length=400,Best validation MSE,0.164207,MSE
+Problem 1 - Adding,GRU,Seed=13; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=309; Sequence length=400,Test MSE,0.1528505533933639,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=400,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=309; Sequence length=400,Average epoch time,0.4373828282999511,seconds/epoch
+Problem 1 - Adding,GRU,Seed=309; Sequence length=400,Best validation MSE,0.163432,MSE
+Problem 1 - Adding,GRU,Seed=309; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=400,Test MSE,0.1534447371959686,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=400,Trainable parameters,13121.0,parameters
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=400,Average epoch time,0.4277188393000415,seconds/epoch
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=400,Best validation MSE,0.163922,MSE
+Problem 1 - Adding,GRU,Seed=2004; Sequence length=400,Solved status,0.0,1 = solved; 0 = not solved
+Problem 1 - HAR,RNN,Seed=13,Test accuracy,0.8160841533763149,score (0-1)
+Problem 1 - HAR,RNN,Seed=13,Test macro-F1,0.8159351597365037,score (0-1)
+Problem 1 - HAR,RNN,Seed=13,Trainable parameters,5190.0,parameters
+Problem 1 - HAR,RNN,Seed=13,Average epoch time,0.3925870033999672,seconds/epoch
+Problem 1 - HAR,RNN,Seed=13,Best validation macro-F1,0.900855,score (0-1)
+Problem 1 - HAR,RNN,Seed=309,Test accuracy,0.7214116050220564,score (0-1)
+Problem 1 - HAR,RNN,Seed=309,Test macro-F1,0.7141163997354482,score (0-1)
+Problem 1 - HAR,RNN,Seed=309,Trainable parameters,5190.0,parameters
+Problem 1 - HAR,RNN,Seed=309,Average epoch time,0.2338502601667035,seconds/epoch
+Problem 1 - HAR,RNN,Seed=309,Best validation macro-F1,0.819306,score (0-1)
+Problem 1 - HAR,RNN,Seed=2004,Test accuracy,0.8184594502884289,score (0-1)
+Problem 1 - HAR,RNN,Seed=2004,Test macro-F1,0.8191358442286766,score (0-1)
+Problem 1 - HAR,RNN,Seed=2004,Trainable parameters,5190.0,parameters
+Problem 1 - HAR,RNN,Seed=2004,Average epoch time,0.2058732938333075,seconds/epoch
+Problem 1 - HAR,RNN,Seed=2004,Best validation macro-F1,0.818939,score (0-1)
+Problem 1 - HAR,LSTM,Seed=13,Test accuracy,0.9015948422124194,score (0-1)
+Problem 1 - HAR,LSTM,Seed=13,Test macro-F1,0.9027241677353436,score (0-1)
+Problem 1 - HAR,LSTM,Seed=13,Trainable parameters,19590.0,parameters
+Problem 1 - HAR,LSTM,Seed=13,Average epoch time,0.2102056844333674,seconds/epoch
+Problem 1 - HAR,LSTM,Seed=13,Best validation macro-F1,0.950113,score (0-1)
+Problem 1 - HAR,LSTM,Seed=309,Test accuracy,0.8934509670851714,score (0-1)
+Problem 1 - HAR,LSTM,Seed=309,Test macro-F1,0.893529759501024,score (0-1)
+Problem 1 - HAR,LSTM,Seed=309,Trainable parameters,19590.0,parameters
+Problem 1 - HAR,LSTM,Seed=309,Average epoch time,0.2391822476666978,seconds/epoch
+Problem 1 - HAR,LSTM,Seed=309,Best validation macro-F1,0.96692,score (0-1)
+Problem 1 - HAR,LSTM,Seed=2004,Test accuracy,0.8897183576518494,score (0-1)
+Problem 1 - HAR,LSTM,Seed=2004,Test macro-F1,0.8894846845219146,score (0-1)
+Problem 1 - HAR,LSTM,Seed=2004,Trainable parameters,19590.0,parameters
+Problem 1 - HAR,LSTM,Seed=2004,Average epoch time,0.2082206607999827,seconds/epoch
+Problem 1 - HAR,LSTM,Seed=2004,Best validation macro-F1,0.888334,score (0-1)
+Problem 1 - HAR,GRU,Seed=13,Test accuracy,0.9043094672548354,score (0-1)
+Problem 1 - HAR,GRU,Seed=13,Test macro-F1,0.9055166031770971,score (0-1)
+Problem 1 - HAR,GRU,Seed=13,Trainable parameters,14790.0,parameters
+Problem 1 - HAR,GRU,Seed=13,Average epoch time,0.2169708761000189,seconds/epoch
+Problem 1 - HAR,GRU,Seed=13,Best validation macro-F1,0.947984,score (0-1)
+Problem 1 - HAR,GRU,Seed=309,Test accuracy,0.8975229046487954,score (0-1)
+Problem 1 - HAR,GRU,Seed=309,Test macro-F1,0.8985149113155413,score (0-1)
+Problem 1 - HAR,GRU,Seed=309,Trainable parameters,14790.0,parameters
+Problem 1 - HAR,GRU,Seed=309,Average epoch time,0.2003107469000042,seconds/epoch
+Problem 1 - HAR,GRU,Seed=309,Best validation macro-F1,0.978209,score (0-1)
+Problem 1 - HAR,GRU,Seed=2004,Test accuracy,0.8870037326094333,score (0-1)
+Problem 1 - HAR,GRU,Seed=2004,Test macro-F1,0.8870898474006296,score (0-1)
+Problem 1 - HAR,GRU,Seed=2004,Trainable parameters,14790.0,parameters
+Problem 1 - HAR,GRU,Seed=2004,Average epoch time,0.2510317341000094,seconds/epoch
+Problem 1 - HAR,GRU,Seed=2004,Best validation macro-F1,0.896624,score (0-1)
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Test MSE,0.1682941019535064,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Trainable parameters,1297.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Average epoch time,0.96133884030005,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159808,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Hidden size,16.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Test MSE,0.168300375342369,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Trainable parameters,1297.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Average epoch time,0.4566063060001397,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159924,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Hidden size,16.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1684602499008178,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Trainable parameters,1297.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.3497758352000346,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.159774,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Hidden size,16.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Test MSE,0.1688272356986999,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Trainable parameters,4641.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Average epoch time,0.408258549600032,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159822,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Hidden size,32.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Test MSE,0.1684031337499618,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Trainable parameters,4641.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Average epoch time,0.3436174675000984,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159822,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Hidden size,32.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1683465540409088,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Trainable parameters,4641.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.3454907139999704,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.15972,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Hidden size,32.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Test MSE,0.1683867275714874,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Average epoch time,0.3689765000000079,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159816,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Hidden size,64.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Test MSE,0.1682369410991668,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Average epoch time,0.3966576443998747,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159825,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Hidden size,64.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1682316362857818,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.3504701549998572,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.159788,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Hidden size,64.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Test MSE,0.1683081090450287,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Trainable parameters,67713.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Average epoch time,0.8817402862000563,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159814,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=13; Sequence length=200,Hidden size,128.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Test MSE,0.1685036122798919,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Trainable parameters,67713.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Average epoch time,0.8267652045000432,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159763,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=309; Sequence length=200,Hidden size,128.0,units
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1682785749435424,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Trainable parameters,67713.0,parameters
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.8086217043998658,seconds/epoch
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.159769,MSE
+Problem 1 - Hidden-size ablation,LSTM,Seed=2004; Sequence length=200,Hidden size,128.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Test MSE,0.159532219171524,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Trainable parameters,977.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Average epoch time,0.4269473320000543,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Best validation MSE,0.153508,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Hidden size,16.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Test MSE,0.168494775891304,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Trainable parameters,977.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Average epoch time,0.3973520670000653,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Best validation MSE,0.159202,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Hidden size,16.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Test MSE,0.1623342633247375,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Trainable parameters,977.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Average epoch time,0.3265907325999251,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Best validation MSE,0.15391,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Hidden size,16.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Test MSE,0.0981577783823013,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Trainable parameters,3489.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Average epoch time,0.3245400056997823,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Best validation MSE,0.091115,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Hidden size,32.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Test MSE,0.1589194387197494,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Trainable parameters,3489.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Average epoch time,0.3578064821001135,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Best validation MSE,0.151835,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Hidden size,32.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Test MSE,0.157354474067688,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Trainable parameters,3489.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Average epoch time,0.3683684417999757,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Best validation MSE,0.148115,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Hidden size,32.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Test MSE,0.019154543057084,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Trainable parameters,13121.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Average epoch time,0.3344599814999128,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Best validation MSE,0.015668,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Hidden size,64.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Test MSE,0.111420065164566,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Trainable parameters,13121.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Average epoch time,0.3341306845000872,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Best validation MSE,0.108758,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Hidden size,64.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Test MSE,0.0187270976603031,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Trainable parameters,13121.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Average epoch time,0.4007340461998865,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Best validation MSE,0.01627,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Hidden size,64.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Test MSE,0.0047273626551032,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Trainable parameters,50817.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Average epoch time,0.4770643206001296,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Best validation MSE,0.004426,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=13; Sequence length=200,Hidden size,128.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Test MSE,0.0238435678184032,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Trainable parameters,50817.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Average epoch time,0.4862573841999619,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Best validation MSE,0.020537,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=309; Sequence length=200,Hidden size,128.0,units
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Test MSE,0.0051977871917188,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Trainable parameters,50817.0,parameters
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Average epoch time,0.4916511204001835,seconds/epoch
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Best validation MSE,0.004587,MSE
+Problem 1 - Hidden-size ablation,GRU,Seed=2004; Sequence length=200,Hidden size,128.0,units
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Test MSE,0.1683830916881561,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Average epoch time,0.4987762792999092,seconds/epoch
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159812,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Forget-gate bias,0.0,bias value
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Test MSE,0.1682277619838714,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Average epoch time,0.4263204358000621,seconds/epoch
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159831,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Forget-gate bias,0.0,bias value
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1682838648557663,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.3829977829999734,seconds/epoch
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.159785,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Forget-gate bias,0.0,bias value
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Test MSE,0.1682769656181335,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Average epoch time,0.3441387558003043,seconds/epoch
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Best validation MSE,0.159826,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=13; Sequence length=200,Forget-gate bias,1.0,bias value
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Test MSE,0.1684778034687042,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Average epoch time,0.3457606701999793,seconds/epoch
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Best validation MSE,0.159746,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=309; Sequence length=200,Forget-gate bias,1.0,bias value
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Test MSE,0.1683844625949859,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Trainable parameters,17473.0,parameters
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Average epoch time,0.408596539500013,seconds/epoch
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Best validation MSE,0.159788,MSE
+Problem 1 - Forget-gate ablation,LSTM,Seed=2004; Sequence length=200,Forget-gate bias,1.0,bias value
+Problem 2,HAR Transformer (sinusoidal PE),Seed=13; Sequence length=128,Test accuracy,0.9287410926365796,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=13; Sequence length=128,Test macro-F1,0.9284910278713574,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=13; Sequence length=128,Trainable parameters,803590.0,parameters
+Problem 2,HAR Transformer (sinusoidal PE),Seed=13; Sequence length=128,Average epoch time,1.4833354647666963,seconds/epoch
+Problem 2,HAR Transformer (sinusoidal PE),Seed=309; Sequence length=128,Test accuracy,0.9134713267729896,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=309; Sequence length=128,Test macro-F1,0.9138646034799917,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=309; Sequence length=128,Trainable parameters,803590.0,parameters
+Problem 2,HAR Transformer (sinusoidal PE),Seed=309; Sequence length=128,Average epoch time,1.447582432866693,seconds/epoch
+Problem 2,HAR Transformer (sinusoidal PE),Seed=2004; Sequence length=128,Test accuracy,0.9015948422124194,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=2004; Sequence length=128,Test macro-F1,0.9021771630054116,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=2004; Sequence length=128,Trainable parameters,803590.0,parameters
+Problem 2,HAR Transformer (sinusoidal PE),Seed=2004; Sequence length=128,Average epoch time,1.4190201584667042,seconds/epoch
+Problem 2,HAR Transformer (none PE),Seed=13; Sequence length=128,Test accuracy,0.9317950458092976,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=13; Sequence length=128,Test macro-F1,0.9313907407163368,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=13; Sequence length=128,Trainable parameters,803590.0,parameters
+Problem 2,HAR Transformer (none PE),Seed=13; Sequence length=128,Average epoch time,1.3845789023333357,seconds/epoch
+Problem 2,HAR Transformer (none PE),Seed=309; Sequence length=128,Test accuracy,0.9172039362063116,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=309; Sequence length=128,Test macro-F1,0.9180258436489608,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=309; Sequence length=128,Trainable parameters,803590.0,parameters
+Problem 2,HAR Transformer (none PE),Seed=309; Sequence length=128,Average epoch time,1.4668315025000085,seconds/epoch
+Problem 2,HAR Transformer (none PE),Seed=2004; Sequence length=128,Test accuracy,0.8944689514760774,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=2004; Sequence length=128,Test macro-F1,0.8947944349360522,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=2004; Sequence length=128,Trainable parameters,803590.0,parameters
+Problem 2,HAR Transformer (none PE),Seed=2004; Sequence length=128,Average epoch time,1.4029556642333925,seconds/epoch
+Problem 2,HAR Transformer (learned PE),Seed=13; Sequence length=128,Test accuracy,0.9205972175093315,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=13; Sequence length=128,Test macro-F1,0.922103475673858,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=13; Sequence length=128,Trainable parameters,805766.0,parameters
+Problem 2,HAR Transformer (learned PE),Seed=13; Sequence length=128,Average epoch time,1.4212767293333248,seconds/epoch
+Problem 2,HAR Transformer (learned PE),Seed=309; Sequence length=128,Test accuracy,0.9375636240244316,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=309; Sequence length=128,Test macro-F1,0.93743248458895,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=309; Sequence length=128,Trainable parameters,805766.0,parameters
+Problem 2,HAR Transformer (learned PE),Seed=309; Sequence length=128,Average epoch time,1.4471703338666733,seconds/epoch
+Problem 2,HAR Transformer (learned PE),Seed=2004; Sequence length=128,Test accuracy,0.8907363420427553,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=2004; Sequence length=128,Test macro-F1,0.8899622275167531,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=2004; Sequence length=128,Trainable parameters,805766.0,parameters
+Problem 2,HAR Transformer (learned PE),Seed=2004; Sequence length=128,Average epoch time,1.405185155900017,seconds/epoch
+Problem 2,Shakespeare Transformer (causal),Sequence length=128,Validation loss,1.7596287101357293,nats
+Problem 2,Shakespeare Transformer (causal),Sequence length=128,Bits per character,2.53860761391866,bits/character
+Problem 2,Shakespeare Transformer (causal),Sequence length=128,Trainable parameters,810049.0,parameters
+Problem 2,Shakespeare Transformer (causal),Sequence length=128,Training iterations,3000.0,iterations
+Problem 2,Shakespeare Transformer (causal),Sequence length=128,Best checkpoint iteration,3000.0,iteration
+Problem 2,Shakespeare Transformer (no causal mask),Seed=13; Sequence length=128,Validation loss,0.2046,nats
+Problem 2,Shakespeare Transformer (no causal mask),Seed=13; Sequence length=128,Bits per character,0.2951,bits/character
+Problem 2,Shakespeare Transformer (no causal mask),Seed=13; Sequence length=128,Trainable parameters,810049.0,parameters
+Problem 2,Shakespeare Transformer (no causal mask),Seed=13; Sequence length=128,Training iterations,3000.0,iterations
+Problem 2,Attention head ablation,Sequence length=64,Trainable parameters,66048.0,parameters
+Problem 2,Attention head ablation,Sequence length=64,Attention forward time,0.452097,milliseconds
+Problem 2,Attention head ablation,Sequence length=64,Number of attention heads,1.0,heads
+Problem 2,Attention head ablation,Sequence length=64,Head dimension,128.0,features/head
+Problem 2,Attention head ablation,Sequence length=64,Model dimension,128.0,features
+Problem 2,Attention head ablation,Sequence length=64,Trainable parameters,66048.0,parameters
+Problem 2,Attention head ablation,Sequence length=64,Attention forward time,0.99845,milliseconds
+Problem 2,Attention head ablation,Sequence length=64,Number of attention heads,4.0,heads
+Problem 2,Attention head ablation,Sequence length=64,Head dimension,32.0,features/head
+Problem 2,Attention head ablation,Sequence length=64,Model dimension,128.0,features
+Problem 2,Attention head ablation,Sequence length=64,Trainable parameters,66048.0,parameters
+Problem 2,Attention head ablation,Sequence length=64,Attention forward time,0.945015,milliseconds
+Problem 2,Attention head ablation,Sequence length=64,Number of attention heads,8.0,heads
+Problem 2,Attention head ablation,Sequence length=64,Head dimension,16.0,features/head
+Problem 2,Attention head ablation,Sequence length=64,Model dimension,128.0,features
+Problem 2,Attention context-length complexity,Sequence length=64,Attention matrix elements,32768.0,elements
+Problem 2,Attention context-length complexity,Sequence length=64,Attention matrix size,0.125,MB
+Problem 2,Attention context-length complexity,Sequence length=64,Attention forward time,1.457493,milliseconds
+Problem 2,Attention context-length complexity,Sequence length=64,Additional peak GPU memory,0.566406,MB
+Problem 2,Attention context-length complexity,Sequence length=128,Attention matrix elements,131072.0,elements
+Problem 2,Attention context-length complexity,Sequence length=128,Attention matrix size,0.5,MB
+Problem 2,Attention context-length complexity,Sequence length=128,Attention forward time,0.989398,milliseconds
+Problem 2,Attention context-length complexity,Sequence length=128,Additional peak GPU memory,1.640625,MB
+Problem 2,Attention context-length complexity,Sequence length=256,Attention matrix elements,524288.0,elements
+Problem 2,Attention context-length complexity,Sequence length=256,Attention matrix size,2.0,MB
+Problem 2,Attention context-length complexity,Sequence length=256,Attention forward time,1.05972,milliseconds
+Problem 2,Attention context-length complexity,Sequence length=256,Additional peak GPU memory,5.52832,MB
+Problem 2,Attention context-length complexity,Sequence length=512,Attention matrix elements,2097152.0,elements
+Problem 2,Attention context-length complexity,Sequence length=512,Attention matrix size,8.0,MB
+Problem 2,Attention context-length complexity,Sequence length=512,Attention forward time,1.829026,milliseconds
+Problem 2,Attention context-length complexity,Sequence length=512,Additional peak GPU memory,18.75,MB
+Problem 2,HAR Transformer (sinusoidal PE),Seed=13; Sequence length=128,Best validation macro-F1,0.969074,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=309; Sequence length=128,Best validation macro-F1,0.974839,score (0-1)
+Problem 2,HAR Transformer (sinusoidal PE),Seed=2004; Sequence length=128,Best validation macro-F1,0.895262,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=13; Sequence length=128,Best validation macro-F1,0.973247,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=309; Sequence length=128,Best validation macro-F1,0.964351,score (0-1)
+Problem 2,HAR Transformer (none PE),Seed=2004; Sequence length=128,Best validation macro-F1,0.893215,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=13; Sequence length=128,Best validation macro-F1,0.972142,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=309; Sequence length=128,Best validation macro-F1,0.977054,score (0-1)
+Problem 2,HAR Transformer (learned PE),Seed=2004; Sequence length=128,Best validation macro-F1,0.899123,score (0-1)

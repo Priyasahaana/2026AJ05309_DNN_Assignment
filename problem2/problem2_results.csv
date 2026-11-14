@@ -1,0 +1,19 @@
+problem,model,seed,seq_len,test_acc,macro_f1,test_mse,params,sec_per_epoch,val_loss_nats,bits_per_char,notes
+Problem 2,HAR Transformer (sinusoidal PE),13.0,128,0.9287410926365796,0.9284910278713574,N/A,803590.0,1.4833354647666963,N/A,N/A,Positional encoding: sinusoidal; best validation macro-F1: 0.969074
+Problem 2,HAR Transformer (sinusoidal PE),309.0,128,0.9134713267729896,0.9138646034799917,N/A,803590.0,1.447582432866693,N/A,N/A,Positional encoding: sinusoidal; best validation macro-F1: 0.974839
+Problem 2,HAR Transformer (sinusoidal PE),2004.0,128,0.9015948422124194,0.9021771630054116,N/A,803590.0,1.4190201584667042,N/A,N/A,Positional encoding: sinusoidal; best validation macro-F1: 0.895262
+Problem 2,HAR Transformer (none PE),13.0,128,0.9317950458092976,0.9313907407163368,N/A,803590.0,1.3845789023333357,N/A,N/A,Positional encoding: none; best validation macro-F1: 0.973247
+Problem 2,HAR Transformer (none PE),309.0,128,0.9172039362063116,0.9180258436489608,N/A,803590.0,1.4668315025000085,N/A,N/A,Positional encoding: none; best validation macro-F1: 0.964351
+Problem 2,HAR Transformer (none PE),2004.0,128,0.8944689514760774,0.8947944349360522,N/A,803590.0,1.4029556642333925,N/A,N/A,Positional encoding: none; best validation macro-F1: 0.893215
+Problem 2,HAR Transformer (learned PE),13.0,128,0.9205972175093315,0.922103475673858,N/A,805766.0,1.4212767293333248,N/A,N/A,Positional encoding: learned; best validation macro-F1: 0.972142
+Problem 2,HAR Transformer (learned PE),309.0,128,0.9375636240244316,0.93743248458895,N/A,805766.0,1.4471703338666733,N/A,N/A,Positional encoding: learned; best validation macro-F1: 0.977054
+Problem 2,HAR Transformer (learned PE),2004.0,128,0.8907363420427553,0.8899622275167531,N/A,805766.0,1.405185155900017,N/A,N/A,Positional encoding: learned; best validation macro-F1: 0.899123
+Problem 2,Shakespeare Transformer (causal),N/A,128,N/A,N/A,N/A,810049.0,N/A,1.7596287101357293,2.53860761391866,Training iterations: 3000; best checkpoint iteration: 3000
+Problem 2,Shakespeare Transformer (no causal mask),13.0,128,N/A,N/A,N/A,810049.0,N/A,0.2046,0.2951,3000 iterations; future-information leakage; generated text was repetitive and incoherent
+Problem 2,Attention head ablation,N/A,64,N/A,N/A,N/A,66048.0,N/A,N/A,N/A,Heads: 1; d_model: 128; head dimension: 128; forward time: 0.452097 ms
+Problem 2,Attention head ablation,N/A,64,N/A,N/A,N/A,66048.0,N/A,N/A,N/A,Heads: 4; d_model: 128; head dimension: 32; forward time: 0.998450 ms
+Problem 2,Attention head ablation,N/A,64,N/A,N/A,N/A,66048.0,N/A,N/A,N/A,Heads: 8; d_model: 128; head dimension: 16; forward time: 0.945015 ms
+Problem 2,Attention context-length complexity,N/A,64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Attention matrix elements: 32768; matrix size: 0.125 MB; forward time: 1.457493 ms; additional peak GPU memory: 0.566406 MB
+Problem 2,Attention context-length complexity,N/A,128,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Attention matrix elements: 131072; matrix size: 0.500 MB; forward time: 0.989398 ms; additional peak GPU memory: 1.640625 MB
+Problem 2,Attention context-length complexity,N/A,256,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Attention matrix elements: 524288; matrix size: 2.000 MB; forward time: 1.059720 ms; additional peak GPU memory: 5.528320 MB
+Problem 2,Attention context-length complexity,N/A,512,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Attention matrix elements: 2097152; matrix size: 8.000 MB; forward time: 1.829026 ms; additional peak GPU memory: 18.750000 MB
