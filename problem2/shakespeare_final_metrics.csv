@@ -1,2 +1,2 @@
 model,validation_characters,validation_loss_nats,bits_per_character,parameters,training_iterations,best_checkpoint_iteration
-Shakespeare Transformer,111539,1.749778979643655,2.5243974565836513,810049,3000,3000
+Shakespeare Transformer,111539,1.7497632748107717,2.524374799299133,810049,3000,3000

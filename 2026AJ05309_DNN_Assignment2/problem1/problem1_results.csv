@@ -1,0 +1,100 @@
+problem,model,seed,seq_len,test_acc,macro_f1,test_mse,params,sec_per_epoch,val_loss_nats,bits_per_char,notes
+Problem 1 - Adding,RNN,13,50,,,0.1748687922954559,4417,0.3686051799999859,,,Best validation MSE=0.165708; solved=False
+Problem 1 - Adding,RNN,309,50,,,0.1744048297405243,4417,0.3054427993999979,,,Best validation MSE=0.165834; solved=False
+Problem 1 - Adding,RNN,2004,50,,,0.1753097027540207,4417,0.3063613923000218,,,Best validation MSE=0.166049; solved=False
+Problem 1 - Adding,LSTM,13,50,,,0.1740558594465255,17473,0.342885886199997,,,Best validation MSE=0.164789; solved=False
+Problem 1 - Adding,LSTM,309,50,,,0.1737602949142456,17473,0.4034401565000109,,,Best validation MSE=0.164786; solved=False
+Problem 1 - Adding,LSTM,2004,50,,,0.1731496900320053,17473,0.3459141812000041,,,Best validation MSE=0.164732; solved=False
+Problem 1 - Adding,GRU,13,50,,,0.0044323769398033,13121,0.3394170404000022,,,Best validation MSE=0.003896; solved=True
+Problem 1 - Adding,GRU,309,50,,,0.0040204650722444,13121,0.3672689140999978,,,Best validation MSE=0.003180; solved=True
+Problem 1 - Adding,GRU,2004,50,,,0.0052000866271555,13121,0.3428450058999942,,,Best validation MSE=0.004363; solved=True
+Problem 1 - Adding,RNN,13,100,,,0.17045758664608,4417,0.3023009399999978,,,Best validation MSE=0.160375; solved=False
+Problem 1 - Adding,RNN,309,100,,,0.1700822860002517,4417,0.3051356460999898,,,Best validation MSE=0.160483; solved=False
+Problem 1 - Adding,RNN,2004,100,,,0.1696574240922927,4417,0.3422243400000013,,,Best validation MSE=0.160614; solved=False
+Problem 1 - Adding,LSTM,13,100,,,0.1700172871351242,17473,0.3541482628999916,,,Best validation MSE=0.160156; solved=False
+Problem 1 - Adding,LSTM,309,100,,,0.1695148348808288,17473,0.348817153099992,,,Best validation MSE=0.160242; solved=False
+Problem 1 - Adding,LSTM,2004,100,,,0.1698009371757507,17473,0.3523693601999866,,,Best validation MSE=0.160302; solved=False
+Problem 1 - Adding,GRU,13,100,,,0.0051720831543207,13121,0.3848950840000157,,,Best validation MSE=0.005122; solved=True
+Problem 1 - Adding,GRU,309,100,,,0.0067587732337415,13121,0.3277862588999937,,,Best validation MSE=0.006476; solved=True
+Problem 1 - Adding,GRU,2004,100,,,0.0062593724578619,13121,0.3285748073000036,,,Best validation MSE=0.005879; solved=True
+Problem 1 - Adding,RNN,13,200,,,0.1684129685163498,4417,0.3399430323999922,,,Best validation MSE=0.159713; solved=False
+Problem 1 - Adding,RNN,309,200,,,0.1681268662214279,4417,0.3434412387999941,,,Best validation MSE=0.159690; solved=False
+Problem 1 - Adding,RNN,2004,200,,,0.1680397689342498,4417,0.3137778202000163,,,Best validation MSE=0.159741; solved=False
+Problem 1 - Adding,LSTM,13,200,,,0.1683867275714874,17473,0.3498624153999913,,,Best validation MSE=0.159816; solved=False
+Problem 1 - Adding,LSTM,309,200,,,0.1682369410991668,17473,0.4173513264999997,,,Best validation MSE=0.159825; solved=False
+Problem 1 - Adding,LSTM,2004,200,,,0.1682316362857818,17473,0.3446233218999737,,,Best validation MSE=0.159788; solved=False
+Problem 1 - Adding,GRU,13,200,,,0.019154543057084,13121,0.3271340093999811,,,Best validation MSE=0.015668; solved=True
+Problem 1 - Adding,GRU,309,200,,,0.111420065164566,13121,0.3426878926000199,,,Best validation MSE=0.108758; solved=False
+Problem 1 - Adding,GRU,2004,200,,,0.0187270976603031,13121,0.386296025799993,,,Best validation MSE=0.016270; solved=True
+Problem 1 - Adding,RNN,13,400,,,0.1532330214977264,4417,0.3168375985999773,,,Best validation MSE=0.164620; solved=False
+Problem 1 - Adding,RNN,309,400,,,0.154144749045372,4417,0.3211798226000041,,,Best validation MSE=0.164424; solved=False
+Problem 1 - Adding,RNN,2004,400,,,0.1542494446039199,4417,0.350162236999995,,,Best validation MSE=0.164447; solved=False
+Problem 1 - Adding,LSTM,13,400,,,0.1542472243309021,17473,0.4145055002000049,,,Best validation MSE=0.164544; solved=False
+Problem 1 - Adding,LSTM,309,400,,,0.1536604166030883,17473,0.3889063074999967,,,Best validation MSE=0.164401; solved=False
+Problem 1 - Adding,LSTM,2004,400,,,0.1535461544990539,17473,0.4162651458000027,,,Best validation MSE=0.164414; solved=False
+Problem 1 - Adding,GRU,13,400,,,0.1524261832237243,13121,0.4487223160999974,,,Best validation MSE=0.164207; solved=False
+Problem 1 - Adding,GRU,309,400,,,0.1528505533933639,13121,0.431519190300014,,,Best validation MSE=0.163432; solved=False
+Problem 1 - Adding,GRU,2004,400,,,0.1534447371959686,13121,0.4387456751999821,,,Best validation MSE=0.163922; solved=False
+Problem 1 - HAR,RNN,13,128,0.8160841533763149,0.8159351597365037,,5190,0.2405340292999976,,,Best validation macro-F1=0.900855
+Problem 1 - HAR,RNN,309,128,0.7214116050220564,0.7141163997354482,,5190,0.2002766481666602,,,Best validation macro-F1=0.819306
+Problem 1 - HAR,RNN,2004,128,0.8184594502884289,0.8191358442286766,,5190,0.2141680453666651,,,Best validation macro-F1=0.818939
+Problem 1 - HAR,LSTM,13,128,0.9015948422124194,0.9027241677353436,,19590,0.2651154172666679,,,Best validation macro-F1=0.950113
+Problem 1 - HAR,LSTM,309,128,0.8934509670851714,0.893529759501024,,19590,0.230470339233337,,,Best validation macro-F1=0.966920
+Problem 1 - HAR,LSTM,2004,128,0.8897183576518494,0.8894846845219146,,19590,0.2337832170000013,,,Best validation macro-F1=0.888334
+Problem 1 - HAR,GRU,13,128,0.9043094672548354,0.9055166031770971,,14790,0.2068577339000001,,,Best validation macro-F1=0.947984
+Problem 1 - HAR,GRU,309,128,0.8975229046487954,0.8985149113155413,,14790,0.2352389904333392,,,Best validation macro-F1=0.978209
+Problem 1 - HAR,GRU,2004,128,0.8870037326094333,0.8870898474006296,,14790,0.2082206139999982,,,Best validation macro-F1=0.896624
+Problem 1 - Adding hidden-size ablation,LSTM,13,200,,,0.1682941019535064,1297,0.4125838051999949,,,Hidden size=16; best validation MSE=0.159808
+Problem 1 - Adding hidden-size ablation,LSTM,309,200,,,0.168300375342369,1297,0.3526874781999936,,,Hidden size=16; best validation MSE=0.159924
+Problem 1 - Adding hidden-size ablation,LSTM,2004,200,,,0.1684602499008178,1297,0.3456419581999739,,,Hidden size=16; best validation MSE=0.159774
+Problem 1 - Adding hidden-size ablation,LSTM,13,200,,,0.1688272356986999,4641,0.3884950141000217,,,Hidden size=32; best validation MSE=0.159822
+Problem 1 - Adding hidden-size ablation,LSTM,309,200,,,0.1684031337499618,4641,0.3735725220999938,,,Hidden size=32; best validation MSE=0.159822
+Problem 1 - Adding hidden-size ablation,LSTM,2004,200,,,0.1683465540409088,4641,0.3416875201000039,,,Hidden size=32; best validation MSE=0.159720
+Problem 1 - Adding hidden-size ablation,LSTM,13,200,,,0.1683867275714874,17473,0.3413609238000276,,,Hidden size=64; best validation MSE=0.159816
+Problem 1 - Adding hidden-size ablation,LSTM,309,200,,,0.1682369410991668,17473,0.4082762247999995,,,Hidden size=64; best validation MSE=0.159825
+Problem 1 - Adding hidden-size ablation,LSTM,2004,200,,,0.1682316362857818,17473,0.3428746356000147,,,Hidden size=64; best validation MSE=0.159788
+Problem 1 - Adding hidden-size ablation,LSTM,13,200,,,0.1683081090450287,67713,0.7967600866999873,,,Hidden size=128; best validation MSE=0.159814
+Problem 1 - Adding hidden-size ablation,LSTM,309,200,,,0.1685036122798919,67713,0.8141270167000016,,,Hidden size=128; best validation MSE=0.159763
+Problem 1 - Adding hidden-size ablation,LSTM,2004,200,,,0.1682785749435424,67713,0.8077612925999915,,,Hidden size=128; best validation MSE=0.159769
+Problem 1 - Adding hidden-size ablation,GRU,13,200,,,0.159532219171524,977,0.3321455421999758,,,Hidden size=16; best validation MSE=0.153508
+Problem 1 - Adding hidden-size ablation,GRU,309,200,,,0.168494775891304,977,0.3479588184000022,,,Hidden size=16; best validation MSE=0.159202
+Problem 1 - Adding hidden-size ablation,GRU,2004,200,,,0.1623342633247375,977,0.3923137973999814,,,Hidden size=16; best validation MSE=0.153910
+Problem 1 - Adding hidden-size ablation,GRU,13,200,,,0.0981577783823013,3489,0.3314516209000203,,,Hidden size=32; best validation MSE=0.091115
+Problem 1 - Adding hidden-size ablation,GRU,309,200,,,0.1589194387197494,3489,0.3324037463000309,,,Hidden size=32; best validation MSE=0.151835
+Problem 1 - Adding hidden-size ablation,GRU,2004,200,,,0.157354474067688,3489,0.3808206471000062,,,Hidden size=32; best validation MSE=0.148115
+Problem 1 - Adding hidden-size ablation,GRU,13,200,,,0.019154543057084,13121,0.3389684118999866,,,Hidden size=64; best validation MSE=0.015668
+Problem 1 - Adding hidden-size ablation,GRU,309,200,,,0.111420065164566,13121,0.3310431877999804,,,Hidden size=64; best validation MSE=0.108758
+Problem 1 - Adding hidden-size ablation,GRU,2004,200,,,0.0187270976603031,13121,0.3247712254000134,,,Hidden size=64; best validation MSE=0.016270
+Problem 1 - Adding hidden-size ablation,GRU,13,200,,,0.0047273626551032,50817,0.4606817084999989,,,Hidden size=128; best validation MSE=0.004426
+Problem 1 - Adding hidden-size ablation,GRU,309,200,,,0.0238435678184032,50817,0.4640948516999856,,,Hidden size=128; best validation MSE=0.020537
+Problem 1 - Adding hidden-size ablation,GRU,2004,200,,,0.0051977871917188,50817,0.4691019151999853,,,Hidden size=128; best validation MSE=0.004587
+Problem 1 - HAR hidden-size ablation,LSTM,13,128,0.8476416694944011,0.8472593188743952,,1830,0.2152911135666689,,,Hidden size=16; best validation macro-F1=0.938807
+Problem 1 - HAR hidden-size ablation,LSTM,309,128,0.8724126230064473,0.8714740595154317,,1830,0.2347674203666808,,,Hidden size=16; best validation macro-F1=0.925874
+Problem 1 - HAR hidden-size ablation,LSTM,2004,128,0.8700373260943333,0.8694515804538248,,1830,0.2106405771333394,,,Hidden size=16; best validation macro-F1=0.872506
+Problem 1 - HAR hidden-size ablation,LSTM,13,128,0.8876823888700374,0.8881449016893695,,5702,0.2295301984666707,,,Hidden size=32; best validation macro-F1=0.933048
+Problem 1 - HAR hidden-size ablation,LSTM,309,128,0.8883610451306413,0.8882013573652605,,5702,0.2246758288333315,,,Hidden size=32; best validation macro-F1=0.979065
+Problem 1 - HAR hidden-size ablation,LSTM,2004,128,0.8649474041398032,0.8643401646888981,,5702,0.2251217205999978,,,Hidden size=32; best validation macro-F1=0.867128
+Problem 1 - HAR hidden-size ablation,LSTM,13,128,0.9015948422124194,0.9027241677353436,,19590,0.2293063345666685,,,Hidden size=64; best validation macro-F1=0.950113
+Problem 1 - HAR hidden-size ablation,LSTM,309,128,0.8934509670851714,0.893529759501024,,19590,0.2248258708000018,,,Hidden size=64; best validation macro-F1=0.966920
+Problem 1 - HAR hidden-size ablation,LSTM,2004,128,0.8897183576518494,0.8894846845219146,,19590,0.2373199763999802,,,Hidden size=64; best validation macro-F1=0.888334
+Problem 1 - HAR hidden-size ablation,LSTM,13,128,0.9131319986426876,0.9157033512827678,,71942,0.3196229460999992,,,Hidden size=128; best validation macro-F1=0.934692
+Problem 1 - HAR hidden-size ablation,LSTM,309,128,0.9080420766881574,0.908544613190768,,71942,0.3318704955333297,,,Hidden size=128; best validation macro-F1=0.985352
+Problem 1 - HAR hidden-size ablation,LSTM,2004,128,0.8920936545639634,0.8922976950434743,,71942,0.3185813685666592,,,Hidden size=128; best validation macro-F1=0.886359
+Problem 1 - HAR hidden-size ablation,GRU,13,128,0.8768238887003733,0.8763595747494088,,1398,0.2213003063333303,,,Hidden size=16; best validation macro-F1=0.946551
+Problem 1 - HAR hidden-size ablation,GRU,309,128,0.8927723108245673,0.8924826123058435,,1398,0.2010208097000069,,,Hidden size=16; best validation macro-F1=0.973732
+Problem 1 - HAR hidden-size ablation,GRU,2004,128,0.8680013573125213,0.8675503499325875,,1398,0.2212209481999897,,,Hidden size=16; best validation macro-F1=0.865650
+Problem 1 - HAR hidden-size ablation,GRU,13,128,0.8978622327790974,0.8981662274415827,,4326,0.1990935014333445,,,Hidden size=32; best validation macro-F1=0.935407
+Problem 1 - HAR hidden-size ablation,GRU,309,128,0.8618934509670851,0.8620077568272019,,4326,0.2262176615000119,,,Hidden size=32; best validation macro-F1=0.985850
+Problem 1 - HAR hidden-size ablation,GRU,2004,128,0.8839497794367153,0.8846504772468444,,4326,0.198450686733338,,,Hidden size=32; best validation macro-F1=0.869517
+Problem 1 - HAR hidden-size ablation,GRU,13,128,0.9043094672548354,0.9055166031770971,,14790,0.2197304235666706,,,Hidden size=64; best validation macro-F1=0.947984
+Problem 1 - HAR hidden-size ablation,GRU,309,128,0.8975229046487954,0.8985149113155413,,14790,0.2059393864666769,,,Hidden size=64; best validation macro-F1=0.978209
+Problem 1 - HAR hidden-size ablation,GRU,2004,128,0.8870037326094333,0.8870898474006296,,14790,0.2230099857666611,,,Hidden size=64; best validation macro-F1=0.896624
+Problem 1 - HAR hidden-size ablation,GRU,13,128,0.9260264675941636,0.9267378630349706,,54150,0.2019390295666615,,,Hidden size=128; best validation macro-F1=0.959515
+Problem 1 - HAR hidden-size ablation,GRU,309,128,0.8914149983033594,0.8934863584051714,,54150,0.2283767762666571,,,Hidden size=128; best validation macro-F1=0.983846
+Problem 1 - HAR hidden-size ablation,GRU,2004,128,0.8876823888700374,0.8864988452888625,,54150,0.2000677455333364,,,Hidden size=128; best validation macro-F1=0.886597
+Problem 1 - Forget-gate ablation,LSTM,13,200,,,0.1683830916881561,17473,0.3546866381999848,,,Forget-gate bias=0.0; best validation MSE=0.159812
+Problem 1 - Forget-gate ablation,LSTM,309,200,,,0.1682277619838714,17473,0.3423051108000095,,,Forget-gate bias=0.0; best validation MSE=0.159831
+Problem 1 - Forget-gate ablation,LSTM,2004,200,,,0.1682838648557663,17473,0.347067237199974,,,Forget-gate bias=0.0; best validation MSE=0.159785
+Problem 1 - Forget-gate ablation,LSTM,13,200,,,0.1682769656181335,17473,0.3991837012999895,,,Forget-gate bias=1.0; best validation MSE=0.159826
+Problem 1 - Forget-gate ablation,LSTM,309,200,,,0.1684778034687042,17473,0.3468241432000127,,,Forget-gate bias=1.0; best validation MSE=0.159746
+Problem 1 - Forget-gate ablation,LSTM,2004,200,,,0.1683844625949859,17473,0.3398445819000244,,,Forget-gate bias=1.0; best validation MSE=0.159788
