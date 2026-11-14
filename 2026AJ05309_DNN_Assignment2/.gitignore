@@ -1,4 +1,0 @@
-problem1/models/*.pt
-problem1/adding_models/*.pt
-problem1/hidden_size_ablation/*.pt
-problem1/forget_gate_ablation/*.pt
